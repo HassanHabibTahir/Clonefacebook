@@ -1,0 +1,14 @@
+.login {
+  text-align: center;
+  display: column;
+  height: 100vh;
+}
+.login_logo {
+  padding-top: 6rem;
+}
+
+.btn_login {
+  background-color: #1178f2 !important;
+  color: white !important;
+  width: 20%;
+}
